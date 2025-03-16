@@ -16,9 +16,7 @@
 
 package com.nathon.ordersystem.demos.web;
 
-/**
- * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
- */
+
 public class User {
 
     private String name;
